@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstDay</string>
+    <string name="formTitle">Form Validation</string>
+    <string name="usernameText">Username</string>
+    <string name="passwordText">Password</string>
+    <string name="validateText">Validate</string>
+    <string name="validationScreen">Welcome to validation screen</string>
+
+</resources>
