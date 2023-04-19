@@ -29,6 +29,7 @@ class Fragment1 : Fragment() {
 
             parentFragmentManager.beginTransaction().apply {
                 replace(R.id.frame_container, fragment).commit()
+                addToBackStack(null)
             }
 
 
